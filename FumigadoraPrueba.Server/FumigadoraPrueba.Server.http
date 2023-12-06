@@ -1,0 +1,6 @@
+@FumigadoraPrueba.Server_HostAddress = http://localhost:5124
+
+GET {{FumigadoraPrueba.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
